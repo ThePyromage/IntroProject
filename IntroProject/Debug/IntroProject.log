@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\s181207\desktop\introproject\introproject\main.cpp(131): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\s181207\desktop\introproject\introproject\main.cpp(136): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\s181207\desktop\introproject\introproject\main.cpp(141): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\s181207\desktop\introproject\introproject\main.cpp(146): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\s181207\desktop\introproject\introproject\main.cpp(151): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\s181207\desktop\introproject\introproject\main.cpp(650): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  IntroProject.vcxproj -> C:\Users\s181207\Desktop\IntroProject\Debug\IntroProject.exe
